@@ -1,1 +1,1 @@
-document.getElementById("nama").innerHTML = "Nama Saya Malas Ngoding";
+document.getElementById("nama").innerHTML = "Nama Saya M. Misbah Alvariz";
